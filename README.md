@@ -1,4 +1,6 @@
 🔧 Robot Arm Joint Component
+
+
 📌 Overview
 This component is a mechanical joint designed for use in robotic arms. It acts as a hinge or connector between arm segments, allowing for controlled rotational motion. The part is compatible with standard servo motors and structural brackets, enabling modular assembly and flexibility in robotic designs.
 
